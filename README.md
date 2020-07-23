@@ -1,5 +1,17 @@
 ## ⚡ Basant Pandey 👋
 
+<p>
+ <a href="#">
+     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&countColor=%232ea44f" />
+  </a>&nbsp;&nbsp;
+  <a href="#">
+     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp; 
+</p>
+
 ## 🤵 About Me
 Basant is a certified SharePoint 2010 & 2013 developer, who helps the people to implement and drive value from solutions based upon Microsoft SharePoint.
 
@@ -23,9 +35,7 @@ Microsoft product expertise includes Office 365, SharePoint, IIS, SQL Server, an
 2. Functional Programming
 
 <p align='center'>
-   <a href="https://github.com/basantpandey/github-visitors-badge">
       <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=basantpandey&repo=basantpandey&countColor=%237B1E7A" />
-   </a>
 </p>
 
 <!--
