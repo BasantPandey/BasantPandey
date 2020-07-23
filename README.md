@@ -22,6 +22,11 @@ Microsoft product expertise includes Office 365, SharePoint, IIS, SQL Server, an
 1. Advanced Visual Studio Code Features
 2. Functional Programming
 
+<p align='center'>
+   <a href="https://github.com/basantpandey/github-visitors-badge">
+      <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=basantpandey&repo=basantpandey&countColor=%237B1E7A" />
+   </a>
+</p>
 
 <!--
 **BasantPandey/BasantPandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
