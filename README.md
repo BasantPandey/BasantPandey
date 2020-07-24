@@ -1,23 +1,23 @@
 ## ⚡ Basant Pandey 👋
 
 <p>
- <a href="#">
+ <a href="https://www.instagram.com/basantpandeyji/">
      <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&countColor=%232ea44f" />
   </a>&nbsp;&nbsp;
-  <a href="#">
+  <a href="https://www.linkedin.com/in/basantpandey/">
      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="#">
+  <a href="https://twitter.com/Basant_Pandey">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp; 
 </p>
 
 ## 🤵 About Me
-Basant is a certified SharePoint 2010 & 2013 developer, who helps the people to implement and drive value from solutions based upon Microsoft SharePoint.
+Basant is a certified SharePoint & Office 365 developer, who helps the people to implement and drive value from solutions based upon Microsoft SharePoint.
 
 React & SharePoint Framework (SPFX)
 
-With over five years of commercial experience in the architecture, design, development, deployment and operational service management of Web based applications and hosting platforms.
+With over 10 years of commercial experience in the architecture, design, development, deployment and operational service management of Web based applications and hosting platforms.
 
 Basant has experience on enterprise content management and portal systems architecture, design, development and deployment solutions.
 
