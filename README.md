@@ -39,6 +39,11 @@ Microsoft product expertise includes Office 365, SharePoint, IIS, SQL Server, an
       <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=basantpandey&repo=basantpandey&countColor=%237B1E7A" />
 </p>
 
+### Some stats
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=BasantPandey)](https://github.com/BasantPandey)
+
+
 <!--
 **BasantPandey/BasantPandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -54,7 +59,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Some stats
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=BasantPandey)](https://github.com/BasantPandey)
 
