@@ -28,6 +28,16 @@
 
 👉 Azure experience - extended working knowledge in cloud service, IaaS, worker role, service bus, queue, azure blob and table storages, and API Management. Configured NSGs for two-tier and three-tier applications. Experience in integrating on-premises servers to Azure.
 
+## 🖋 Blogging
+
+<!--START_SECTION:feed-->
+<!--END_SECTION:feed-->
+<!-- <embed type="image/svg+xml" src="https://estruyf-github.azurewebsites.net/api/RssSvg?url=http://feeds.feedburner.com/blogspot/mymak&nr=5&sanitize=true"/> -->
+
+## 🎙 Speaking
+
+
+
 ## 💬 Ask me about
 1. React
 2. SharePoint
