@@ -32,7 +32,7 @@
 
 <!--START_SECTION:feed-->
 <!--END_SECTION:feed-->
-<!-- <embed type="image/svg+xml" src="https://estruyf-github.azurewebsites.net/api/RssSvg?url=http://feeds.feedburner.com/blogspot/mymak&nr=5&sanitize=true"/> -->
+
 
 ## 🎙 Speaking
 
