@@ -13,15 +13,20 @@
 </p>
 
 ## 🤵 About Me
-Basant is a certified SharePoint & Office 365 developer, who helps the people to implement and drive value from solutions based upon Microsoft SharePoint.
 
-React & SharePoint Framework (SPFX)
+👉 Self-motivated, highly experienced, and certified, lead Azure Cloud professional Azure Architect Developer with 12+ years of experience in system design, development, analysis, and implementation using Microsoft Technologies for enterprise applications.
 
-With over 10 years of commercial experience in the architecture, design, development, deployment and operational service management of Web based applications and hosting platforms.
+👉 HashiCorp Certified: Terraform Associate (002), an expert in creating infrastructure 
 
-Basant has experience on enterprise content management and portal systems architecture, design, development and deployment solutions.
+👉 Azure Compute Services design, configuration, and optimization: Virtual Machines, Virtual Machine Scale Sets, App Service (Web App, Mobile App, Logic App, API App), App Service Environment (ASE), Azure Functions, Batch, Service Fabric and cloud services.
 
-Microsoft product expertise includes Office 365, SharePoint, IIS, SQL Server, and Microsoft dynamic CRM. He also has wide experience of Management, Business intelligence, Records Management, Document Management, Taxonomy, Web Content Management, and Social Media Governance.
+👉Architecting, designing, and securing elastic storage in Azure: Blob, queue, File, Disk, Azure Backup, Azure Site Recovery (ASR)
+
+👉 Architecting and designing solutions based on Microsoft Azure: App Service, Web App, Mobile App, Logic App, API App, Azure Search, API Management, Notification hubs
+
+👉 Architecting, design, and implementation of Azure Networking Services: Virtual Network, Load Balancers, Application Gateway, VPN Gateway, Azure DNS, Traffic Manager, Express Route.
+
+👉 Azure experience - extended working knowledge in cloud service, IaaS, worker role, service bus, queue, azure blob and table storages, and API Management. Configured NSGs for two-tier and three-tier applications. Experience in integrating on-premises servers to Azure.
 
 ## 💬 Ask me about
 1. React
@@ -29,11 +34,14 @@ Microsoft product expertise includes Office 365, SharePoint, IIS, SQL Server, an
 3. Office 365
 4. SharePoint Search
 5. Functional Programming
+6. Azure
+7. Terraform
 
 ## 🌱 I’m currently learning
 1. Advanced Visual Studio Code Features
 2. Functional Programming
 3. Docker
+4. Terraform Vault
 
 <p align='center'>
       <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=basantpandey&repo=basantpandey&countColor=%237B1E7A" />
