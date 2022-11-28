@@ -1,0 +1,14 @@
+name: Update this repo's README
+
+on:
+  schedule:
+    - cron: 0 */1 * * *
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: JasonEtco/rss-to-readme@v1
+        with:
+          feed-url: http://feeds.feedburner.com/blogspot/mymak
+          readme-section: feed
