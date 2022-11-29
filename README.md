@@ -31,11 +31,11 @@
 ## 🖋 Blogging
 
 <!--START_SECTION:feed-->
+* [SharePoint Online tools Improve productivity](http:&#x2F;&#x2F;sharepointfordeveloper.blogspot.com&#x2F;2022&#x2F;11&#x2F;sharepoint-online-tools-improve.html)
 * [(5&#x2F;7) WebJobs: Configure Azure WebJobs](http:&#x2F;&#x2F;sharepointfordeveloper.blogspot.com&#x2F;2018&#x2F;09&#x2F;57-webjobs-configure-azure-webjobs.html)
 * [(4&#x2F;7) Play by Play Series on Azure WebJobs](http:&#x2F;&#x2F;sharepointfordeveloper.blogspot.com&#x2F;2018&#x2F;09&#x2F;47-play-by-play-series-on-azure-webjobs_10.html)
 * [(4&#x2F;7) Play by Play Series on Azure WebJobs](http:&#x2F;&#x2F;sharepointfordeveloper.blogspot.com&#x2F;2018&#x2F;09&#x2F;47-play-by-play-series-on-azure-webjobs.html)
 * [(2&#x2F;7) Play by Play Series on Azure WebJobs](http:&#x2F;&#x2F;sharepointfordeveloper.blogspot.com&#x2F;2018&#x2F;09&#x2F;27-play-by-play-series-on-azure-webjobs_10.html)
-* [(2&#x2F;7) Play by Play Series on Azure WebJobs](http:&#x2F;&#x2F;sharepointfordeveloper.blogspot.com&#x2F;2018&#x2F;09&#x2F;27-play-by-play-series-on-azure-webjobs.html)
 <!--END_SECTION:feed-->
 
 
