@@ -41,6 +41,8 @@
 
 ## 🎙 Speaking
 
+## 🎉 Udemy
+1. [HashiCorp Certified: Terraform Associate 2022 Practice Exam](https://www.udemy.com/course/hashicorp-certified-terraform-associate-2022-practice-exam/)
 
 
 ## 💬 Ask me about
