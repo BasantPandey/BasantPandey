@@ -1,4 +1,4 @@
-## ⚡ Basant Pandey 👋 
+## ⚡ Basant Pandey (He/Him) 👋 
 <p>
  <a href="https://twitter.com/Basant_Pandey">
      <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&countColor=%232ea44f" />
