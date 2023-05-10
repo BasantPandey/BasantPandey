@@ -11,7 +11,7 @@
   </a>&nbsp;&nbsp; 
 </p>
 
-### MCT | Azure Architect | Certified: Terraform Associate | Cloud Automation | IaC ###
+### MCT | Azure Architect | Cloud Automation | IaC ###
 
 ## 🤵 About Me
 
