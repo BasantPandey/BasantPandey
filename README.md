@@ -1,4 +1,4 @@
-## ⚡ Basant Pandey 👋
+## ⚡ Basant Pandey (He/Him) 👋 
 
 <p>
  <a href="https://twitter.com/Basant_Pandey">
@@ -11,6 +11,10 @@
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp; 
 </p>
+
+### MCT | Azure Architect | Certified: Terraform Associate | Cloud Automation | IaC
+
+## ⚡ Basant Pandey 👋
 
 ## 🤵 About Me
 
