@@ -18,7 +18,7 @@ jobs:
       - name: Update  BASANTPANDEY POST
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          readme_path: ./profile/README.md
+          readme_path: ./README.md
           feed_list: "http://feeds.feedburner.com/aeyeinnovators/feeds"
           comment_tag_name: "BASANTPANDEY-POST-LIST"
           commit_message: "🤖♻️ Update README with BasantPandey' latest blog posts"
@@ -28,7 +28,7 @@ jobs:
       - name: Update BASANTPANDEYYOUTUBE' YouTube videos
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          readme_path: ./profile/README.md
+          readme_path: ./README.md
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCLDanRvkpWTY-pqMyRyGTIw"
           comment_tag_name: "BASANTPANDEYYOUTUBE-POST-LIST"
           commit_message: "🤖♻️ Update README with BasantPandey' latest videos on YouTube channel"
