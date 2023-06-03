@@ -15,22 +15,22 @@ jobs:
         uses: actions/checkout@v2
         with:
           fetch-depth: 0
-      - name: Update 
+      - name: Update  BASANTPANDEY POST
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           readme_path: ./profile/README.md
           feed_list: "http://feeds.feedburner.com/aeyeinnovators/feeds"
-          comment_tag_name: "BasantPandey-POST-LIST"
+          comment_tag_name: "BASANTPANDEY-POST-LIST"
           commit_message: "🤖♻️ Update README with BasantPandey' latest blog posts"
           max_post_count: "5"
           date_format: "mmm d, yyyy"
           template: '$newline- $date - [$title]($url)'
-      - name: Update BasantPandey' YouTube videos
+      - name: Update BASANTPANDEYYOUTUBE' YouTube videos
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           readme_path: ./profile/README.md
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCLDanRvkpWTY-pqMyRyGTIw"
-          comment_tag_name: "BasantPandey-POST-LIST"
+          comment_tag_name: "BASANTPANDEYYOUTUBE-POST-LIST"
           commit_message: "🤖♻️ Update README with BasantPandey' latest videos on YouTube channel"
           max_post_count: "5"
           date_format: "mmm d, yyyy"
