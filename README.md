@@ -42,12 +42,11 @@
 
 ## 🖋 AI Blogging
 
-## 📙 Latest articles from [Basant Pandey]()
+## 📙 Latest articles from [Basant Pandey](https://aeyeinnovators.blogspot.com/)
 <!-- BASANTPANDEY-POST-LIST:START -->
 
-## 🖋 AI Blogging
 
-## 📙 Latest articles from [Basant Pandey]()
+## 📺 Latest videos from the [BasantPandey YouTube channel](https://www.youtube.com/@BasantPandeyji)
 <!-- BASANTPANDEYYOUTUBE-POST-LIST:START -->
 
 
