@@ -44,7 +44,7 @@
 
 ## 📙 Latest articles from [AEye innovators](https://aeyeinnovators.blogspot.com/)
 <!-- BASANTPANDEY-POST-LIST:START -->
-<!-- BASANTPANDEY-POST-LIST:END -->
+- Jun 3, 2023 - [What is AI?](http://aeyeinnovators.blogspot.com/2023/06/what-is-ai.html)<!-- BASANTPANDEY-POST-LIST:END -->
 
 
 ## 📺 Latest videos from the [BasantPandey YouTube channel](https://www.youtube.com/@BasantPandeyji)
