@@ -4,7 +4,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '*/5 0 * * *'
+    - cron: 8 * * * *
   workflow_dispatch:
 
 jobs:
@@ -22,6 +22,16 @@ jobs:
           feed_list: "http://feeds.feedburner.com/aeyeinnovators/feeds"
           comment_tag_name: "BASANTPANDEY-POST-LIST"
           commit_message: "🤖♻️ Update README with BasantPandey' latest blog posts"
+          max_post_count: "5"
+          date_format: "mmm d, yyyy"
+          template: '$newline- $date - [$title]($url)'
+      - name: Update SharePoint POST
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          readme_path: ./README.md
+          feed_list: "http://feeds.feedburner.com/blogspot/mymak"
+          comment_tag_name: "START_SHAREPOINT-POST-LIST"
+          commit_message: "🤖♻️ Update README with SharePoint POST latest blog posts"
           max_post_count: "5"
           date_format: "mmm d, yyyy"
           template: '$newline- $date - [$title]($url)'
