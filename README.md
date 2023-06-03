@@ -39,7 +39,7 @@
 - Sep 10, 2018 - [&lpar;2/7&rpar; Play by Play Series on Azure WebJobs](http://sharepointfordeveloper.blogspot.com/2018/09/27-play-by-play-series-on-azure-webjobs_10.html)<!-- START_SHAREPOINT-POST-LIST:END -->
 
 
-## 📙 Latest articles from [AEye innovators](https://aeyeinnovators.blogspot.com/)
+## 📙 Latest articles from [AEye Innovators](https://aeyeinnovators.blogspot.com/)
 <!-- BASANTPANDEY-POST-LIST:START -->
 - Jun 3, 2023 - [What is AI?](http://aeyeinnovators.blogspot.com/2023/06/what-is-ai.html)<!-- BASANTPANDEY-POST-LIST:END -->
 
