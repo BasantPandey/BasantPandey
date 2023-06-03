@@ -49,7 +49,11 @@
 
 ## 📺 Latest videos from the [BasantPandey YouTube channel](https://www.youtube.com/@BasantPandeyji)
 <!-- BASANTPANDEYYOUTUBE-POST-LIST:START -->
-<!-- BASANTPANDEYYOUTUBE-POST-LIST:END -->
+- Nov 26, 2022 - [Free HashiCorp Certified: Terraform Associate 2022 Practice Exam](https://www.youtube.com/watch?v=B3VXh30yAdE)
+- May 28, 2021 - [Book Read: Chapter 02 First Class Functions &lpar;&quot;Mostly Adequate Guide to Functional Programming&quot;&rpar;](https://www.youtube.com/watch?v=1pahlfdXH28)
+- May 28, 2021 - [Book Read: Introduction &quot;Mostly Adequate Guide to Functional Programming&quot;](https://www.youtube.com/watch?v=zFUB8sKH030)
+- May 26, 2021 - [Book Read: Chapter 01 What Ever Are We Doing &lpar;&quot;Mostly Adequate Guide to Functional Programming&quot;&rpar;](https://www.youtube.com/watch?v=U0zAOi8UFw8)
+- Nov 15, 2018 - [Part 1.4, Ms Flow Working with Variable Actions Part 1](https://www.youtube.com/watch?v=mQyIvRoeH_U)<!-- BASANTPANDEYYOUTUBE-POST-LIST:END -->
 
 ## 🎙 Speaking
 
