@@ -32,13 +32,11 @@
 
 ## 🖋 SharePoint Blogging
 <!-- START_SHAREPOINT-POST-LIST:START -->
- 
-* [SharePoint Online tools Improve productivity](http:&#x2F;&#x2F;sharepointfordeveloper.blogspot.com&#x2F;2022&#x2F;11&#x2F;sharepoint-online-tools-improve.html)
-* [(5&#x2F;7) WebJobs: Configure Azure WebJobs](http:&#x2F;&#x2F;sharepointfordeveloper.blogspot.com&#x2F;2018&#x2F;09&#x2F;57-webjobs-configure-azure-webjobs.html)
-* [(4&#x2F;7) Play by Play Series on Azure WebJobs](http:&#x2F;&#x2F;sharepointfordeveloper.blogspot.com&#x2F;2018&#x2F;09&#x2F;47-play-by-play-series-on-azure-webjobs_10.html)
-* [(4&#x2F;7) Play by Play Series on Azure WebJobs](http:&#x2F;&#x2F;sharepointfordeveloper.blogspot.com&#x2F;2018&#x2F;09&#x2F;47-play-by-play-series-on-azure-webjobs.html)
-* [(2&#x2F;7) Play by Play Series on Azure WebJobs](http:&#x2F;&#x2F;sharepointfordeveloper.blogspot.com&#x2F;2018&#x2F;09&#x2F;27-play-by-play-series-on-azure-webjobs_10.html)
-<!-- START_SHAREPOINT-POST-LIST:END -->
+- Nov 29, 2022 - [SharePoint Online tools Improve productivity](http://sharepointfordeveloper.blogspot.com/2022/11/sharepoint-online-tools-improve.html)
+- Sep 10, 2018 - [&lpar;5/7&rpar; WebJobs: Configure Azure WebJobs](http://sharepointfordeveloper.blogspot.com/2018/09/57-webjobs-configure-azure-webjobs.html)
+- Sep 10, 2018 - [&lpar;4/7&rpar; Play by Play Series on Azure WebJobs](http://sharepointfordeveloper.blogspot.com/2018/09/47-play-by-play-series-on-azure-webjobs_10.html)
+- Sep 10, 2018 - [&lpar;4/7&rpar; Play by Play Series on Azure WebJobs](http://sharepointfordeveloper.blogspot.com/2018/09/47-play-by-play-series-on-azure-webjobs.html)
+- Sep 10, 2018 - [&lpar;2/7&rpar; Play by Play Series on Azure WebJobs](http://sharepointfordeveloper.blogspot.com/2018/09/27-play-by-play-series-on-azure-webjobs_10.html)<!-- START_SHAREPOINT-POST-LIST:END -->
 
 
 ## 📙 Latest articles from [AEye innovators](https://aeyeinnovators.blogspot.com/)
