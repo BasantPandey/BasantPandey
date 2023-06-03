@@ -40,6 +40,16 @@
 * [(2&#x2F;7) Play by Play Series on Azure WebJobs](http:&#x2F;&#x2F;sharepointfordeveloper.blogspot.com&#x2F;2018&#x2F;09&#x2F;27-play-by-play-series-on-azure-webjobs_10.html)
 <!--END_SECTION:feed-->
 
+## 🖋 AI Blogging
+
+## 📙 Latest articles from [Basant Pandey]()
+<!-- BASANTPANDEY-POST-LIST:START -->
+
+## 🖋 AI Blogging
+
+## 📙 Latest articles from [Basant Pandey]()
+<!-- BASANTPANDEYYOUTUBE-POST-LIST:START -->
+
 
 ## 🎙 Speaking
 
