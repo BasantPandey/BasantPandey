@@ -41,6 +41,7 @@
 
 ## 📙 Latest articles from [AEye Innovators](https://aeyeinnovators.blogspot.com/)
 <!-- BASANTPANDEY-POST-LIST:START -->
+- Jun 5, 2023 - [Chat GTP Github Projects](http://aeyeinnovators.blogspot.com/2023/06/chat-gtp-github-actions-projects.html)
 - Jun 3, 2023 - [Five popular online courses for learning AI](http://aeyeinnovators.blogspot.com/2023/06/five-popular-online-courses-for.html)
 - Jun 3, 2023 - [What is AI?](http://aeyeinnovators.blogspot.com/2023/06/what-is-ai.html)<!-- BASANTPANDEY-POST-LIST:END -->
 
