@@ -16,19 +16,20 @@
 
 ## 🤵 About Me
 
-👉 Self-motivated, highly experienced, and certified, lead Azure Cloud professional Azure Architect Developer with 12+ years of experience in system design, development, analysis, and implementation using Microsoft Technologies for enterprise applications.
+👉 I am a highly experienced and certified Azure Architect Developer with over 12 years of expertise in designing, developing, analyzing, and implementing enterprise applications using Microsoft Technologies.
 
-👉 HashiCorp Certified: Terraform Associate (002), an expert in creating infrastructure 
+👉 I hold the HashiCorp Certified: Terraform Associate (002) certification, demonstrating my proficiency in creating infrastructure solutions.
 
-👉 Azure Compute Services design, configuration, and optimization: Virtual Machines, Virtual Machine Scale Sets, App Service (Web App, Mobile App, Logic App, API App), App Service Environment (ASE), Azure Functions, Batch, Service Fabric and cloud services.
+👉 My skills encompass the design, configuration, and optimization of Azure Compute Services, including Virtual Machines, Virtual Machine Scale Sets, App Service (Web App, Mobile App, Logic App, API App), App Service Environment (ASE), Azure Functions, Batch, Service Fabric, and cloud services.
 
-👉Architecting, designing, and securing elastic storage in Azure: Blob, queue, File, Disk, Azure Backup, Azure Site Recovery (ASR)
+👉 I specialize in architecting and securing elastic storage solutions in Azure, utilizing Blob storage, queue storage, File storage, Disk storage, Azure Backup, and Azure Site Recovery (ASR).
 
-👉 Architecting and designing solutions based on Microsoft Azure: App Service, Web App, Mobile App, Logic App, API App, Azure Search, API Management, Notification hubs
+👉 Additionally, I excel in architecting and designing solutions based on Microsoft Azure, leveraging App Service, Web App, Mobile App, Logic App, API App, Azure Search, API Management, and Notification hubs.
 
-👉 Architecting, design, and implementation of Azure Networking Services: Virtual Network, Load Balancers, Application Gateway, VPN Gateway, Azure DNS, Traffic Manager, Express Route.
+👉 My expertise extends to the architectural design and implementation of Azure Networking Services, encompassing Virtual Network, Load Balancers, Application Gateway, VPN Gateway, Azure DNS, Traffic Manager, and Express Route.
 
-👉 Azure experience - extended working knowledge in cloud service, IaaS, worker role, service bus, queue, azure blob and table storages, and API Management. Configured NSGs for two-tier and three-tier applications. Experience in integrating on-premises servers to Azure.
+👉 I have extensive hands-on experience with Azure, including cloud services, IaaS, worker roles, service bus, queue storage, Azure Blob storage, table storage, and API Management. I have successfully configured NSGs for two-tier and three-tier applications and have expertise in integrating on-premises servers with Azure.
+
 
 ## 🖋 SharePoint Blogging
 <!-- START_SHAREPOINT-POST-LIST:START -->
