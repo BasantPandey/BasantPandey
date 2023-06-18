@@ -76,6 +76,11 @@
       <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=basantpandey&repo=basantpandey&countColor=%237B1E7A" />
 </p>
 
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ### Some stats
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=BasantPandey)](https://github.com/BasantPandey)
