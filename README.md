@@ -72,10 +72,6 @@
 3. Docker
 4. Terraform Vault
 
-<p align='center'>
-      <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=basantpandey&repo=basantpandey&countColor=%237B1E7A" />
-</p>
-
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
