@@ -83,8 +83,11 @@
 
 ### Some stats
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=BasantPandey)](https://github.com/BasantPandey)
-
+<p align='center'>
+   <a href="https://github.com/BasantPandey">
+      <img src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=BasantPandey&countColor=%237B1E7A" />
+   </a>
+</p>
 
 <!--
 **BasantPandey/BasantPandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
