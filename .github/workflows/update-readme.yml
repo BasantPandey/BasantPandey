@@ -2,8 +2,10 @@ name: Update README Activity
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '*/30 * * * *' 
   workflow_dispatch:
+
+permissions: write-all
 
 jobs:
   build:
