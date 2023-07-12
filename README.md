@@ -74,11 +74,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#12](https://github.com/BasantPandey/BasantPandey/pull/12) in [BasantPandey/BasantPandey](https://github.com/BasantPandey/BasantPandey)
-2. ❌ Closed PR [#13](https://github.com/BasantPandey/BasantPandey/pull/13) in [BasantPandey/BasantPandey](https://github.com/BasantPandey/BasantPandey)
-3. ❌ Closed PR [#14](https://github.com/BasantPandey/BasantPandey/pull/14) in [BasantPandey/BasantPandey](https://github.com/BasantPandey/BasantPandey)
-4. ❌ Closed PR [#15](https://github.com/BasantPandey/BasantPandey/pull/15) in [BasantPandey/BasantPandey](https://github.com/BasantPandey/BasantPandey)
-5. 🗣 Commented on [#212](https://github.com/peter-evans/create-or-update-comment/issues/212) in [peter-evans/create-or-update-comment](https://github.com/peter-evans/create-or-update-comment)
+1. 🎉 Merged PR [#17](https://github.com/BasantPandey/BasantPandey/pull/17) in [BasantPandey/BasantPandey](https://github.com/BasantPandey/BasantPandey)
+2. 💪 Opened PR [#17](https://github.com/BasantPandey/BasantPandey/pull/17) in [BasantPandey/BasantPandey](https://github.com/BasantPandey/BasantPandey)
+3. ❌ Closed PR [#12](https://github.com/BasantPandey/BasantPandey/pull/12) in [BasantPandey/BasantPandey](https://github.com/BasantPandey/BasantPandey)
+4. ❌ Closed PR [#13](https://github.com/BasantPandey/BasantPandey/pull/13) in [BasantPandey/BasantPandey](https://github.com/BasantPandey/BasantPandey)
+5. ❌ Closed PR [#14](https://github.com/BasantPandey/BasantPandey/pull/14) in [BasantPandey/BasantPandey](https://github.com/BasantPandey/BasantPandey)
 <!--END_SECTION:activity-->
 
 
