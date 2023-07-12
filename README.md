@@ -33,27 +33,36 @@
 
 ## 🖋 SharePoint Blogging
 <!-- START_SHAREPOINT-POST-LIST:START -->
+
 - Jun 8, 2023 - [Chat GTP - Azure Logic App to Review Pull using chat GTP](http://sharepointfordeveloper.blogspot.com/2023/06/chat-gtp-azure-logic-app-to-review-pull.html)
 - Nov 29, 2022 - [SharePoint Online tools Improve productivity](http://sharepointfordeveloper.blogspot.com/2022/11/sharepoint-online-tools-improve.html)
 - Sep 10, 2018 - [&lpar;5/7&rpar; WebJobs: Configure Azure WebJobs](http://sharepointfordeveloper.blogspot.com/2018/09/57-webjobs-configure-azure-webjobs.html)
 - Sep 10, 2018 - [&lpar;4/7&rpar; Play by Play Series on Azure WebJobs](http://sharepointfordeveloper.blogspot.com/2018/09/47-play-by-play-series-on-azure-webjobs_10.html)
-- Sep 10, 2018 - [&lpar;4/7&rpar; Play by Play Series on Azure WebJobs](http://sharepointfordeveloper.blogspot.com/2018/09/47-play-by-play-series-on-azure-webjobs.html)<!-- START_SHAREPOINT-POST-LIST:END -->
+- Sep 10, 2018 - [&lpar;4/7&rpar; Play by Play Series on Azure WebJobs](http://sharepointfordeveloper.blogspot.com/2018/09/47-play-by-play-series-on-azure-webjobs.html)
+
+  <!-- START_SHAREPOINT-POST-LIST:END -->
 
 
 ## 📙 Latest articles from [AEye Innovators](https://aeyeinnovators.blogspot.com/)
 <!-- BASANTPANDEY-POST-LIST:START -->
+
 - Jun 5, 2023 - [Chat GTP Github Projects](http://aeyeinnovators.blogspot.com/2023/06/chat-gtp-github-actions-projects.html)
 - Jun 3, 2023 - [Five popular online courses for learning AI](http://aeyeinnovators.blogspot.com/2023/06/five-popular-online-courses-for.html)
-- Jun 3, 2023 - [What is AI?](http://aeyeinnovators.blogspot.com/2023/06/what-is-ai.html)<!-- BASANTPANDEY-POST-LIST:END -->
+- Jun 3, 2023 - [What is AI?](http://aeyeinnovators.blogspot.com/2023/06/what-is-ai.html)
+
+  <!-- BASANTPANDEY-POST-LIST:END -->
 
 
 ## 📺 Latest videos from the [BasantPandey YouTube channel](https://www.youtube.com/@BasantPandeyji)
 <!-- BASANTPANDEYYOUTUBE-POST-LIST:START -->
+
 - Nov 26, 2022 - [Free HashiCorp Certified: Terraform Associate 2022 Practice Exam](https://www.youtube.com/watch?v=B3VXh30yAdE)
 - May 28, 2021 - [Book Read: Chapter 02 First Class Functions &lpar;&quot;Mostly Adequate Guide to Functional Programming&quot;&rpar;](https://www.youtube.com/watch?v=1pahlfdXH28)
 - May 28, 2021 - [Book Read: Introduction &quot;Mostly Adequate Guide to Functional Programming&quot;](https://www.youtube.com/watch?v=zFUB8sKH030)
 - May 26, 2021 - [Book Read: Chapter 01 What Ever Are We Doing &lpar;&quot;Mostly Adequate Guide to Functional Programming&quot;&rpar;](https://www.youtube.com/watch?v=U0zAOi8UFw8)
-- Nov 15, 2018 - [Part 1.4, Ms Flow Working with Variable Actions Part 1](https://www.youtube.com/watch?v=mQyIvRoeH_U)<!-- BASANTPANDEYYOUTUBE-POST-LIST:END -->
+- Nov 15, 2018 - [Part 1.4, Ms Flow Working with Variable Actions Part 1](https://www.youtube.com/watch?v=mQyIvRoeH_U)
+
+<!-- BASANTPANDEYYOUTUBE-POST-LIST:END -->
 
 ## 🎙 Speaking
 
