@@ -33,14 +33,11 @@
 
 ## 🖋 SharePoint Blogging
 <!-- START_SHAREPOINT-POST-LIST:START -->
-
 - Jun 8, 2023 - [Chat GTP - Azure Logic App to Review Pull using chat GTP](http://sharepointfordeveloper.blogspot.com/2023/06/chat-gtp-azure-logic-app-to-review-pull.html)
 - Nov 29, 2022 - [SharePoint Online tools Improve productivity](http://sharepointfordeveloper.blogspot.com/2022/11/sharepoint-online-tools-improve.html)
 - Sep 10, 2018 - [&lpar;5/7&rpar; WebJobs: Configure Azure WebJobs](http://sharepointfordeveloper.blogspot.com/2018/09/57-webjobs-configure-azure-webjobs.html)
 - Sep 10, 2018 - [&lpar;4/7&rpar; Play by Play Series on Azure WebJobs](http://sharepointfordeveloper.blogspot.com/2018/09/47-play-by-play-series-on-azure-webjobs_10.html)
-- Sep 10, 2018 - [&lpar;4/7&rpar; Play by Play Series on Azure WebJobs](http://sharepointfordeveloper.blogspot.com/2018/09/47-play-by-play-series-on-azure-webjobs.html)
-
-  <!-- START_SHAREPOINT-POST-LIST:END -->
+- Sep 10, 2018 - [&lpar;4/7&rpar; Play by Play Series on Azure WebJobs](http://sharepointfordeveloper.blogspot.com/2018/09/47-play-by-play-series-on-azure-webjobs.html)<!-- START_SHAREPOINT-POST-LIST:END -->
 
 
 ## 📙 Latest articles from [AEye Innovators](https://aeyeinnovators.blogspot.com/)
