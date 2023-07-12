@@ -49,14 +49,11 @@
 
 ## 📺 Latest videos from the [BasantPandey YouTube channel](https://www.youtube.com/@BasantPandeyji)
 <!-- BASANTPANDEYYOUTUBE-POST-LIST:START -->
-
-- Nov 26, 2022 - [Free HashiCorp Certified: Terraform Associate 2022 Practice Exam](https://www.youtube.com/watch?v=B3VXh30yAdE)
-- May 28, 2021 - [Book Read: Chapter 02 First Class Functions &lpar;&quot;Mostly Adequate Guide to Functional Programming&quot;&rpar;](https://www.youtube.com/watch?v=1pahlfdXH28)
-- May 28, 2021 - [Book Read: Introduction &quot;Mostly Adequate Guide to Functional Programming&quot;](https://www.youtube.com/watch?v=zFUB8sKH030)
-- May 26, 2021 - [Book Read: Chapter 01 What Ever Are We Doing &lpar;&quot;Mostly Adequate Guide to Functional Programming&quot;&rpar;](https://www.youtube.com/watch?v=U0zAOi8UFw8)
-- Nov 15, 2018 - [Part 1.4, Ms Flow Working with Variable Actions Part 1](https://www.youtube.com/watch?v=mQyIvRoeH_U)
-
-<!-- BASANTPANDEYYOUTUBE-POST-LIST:END -->
+- Jul 11, 2023 - [SharePoint Framework &lpar;SPFx&rpar;: Extensions &lpar;Command Sets&rpar;](https://www.youtube.com/watch?v=vTVcHblrtpU)
+- Jul 10, 2023 - [SharePoint Framework &lpar;SPFx&rpar;: Extensions &lpar;Field Customizers&rpar;](https://www.youtube.com/watch?v=_Dwun9t01WM)
+- Jul 9, 2023 - [SharePoint Framework &lpar;SPFx&rpar; Extensions &lpar;Application Customizers&rpar;](https://www.youtube.com/watch?v=_q1sxQTSqoA)
+- Jul 7, 2023 - [SharePoint Framework &lpar;SPFx&rpar;: WebParts](https://www.youtube.com/watch?v=cyEMMph-rQw)
+- Jul 5, 2023 - [SharePoint Framework &lpar;SPFx&rpar;: Getting Started](https://www.youtube.com/watch?v=JdP8jdokOfE)<!-- BASANTPANDEYYOUTUBE-POST-LIST:END -->
 
 ## 🎙 Speaking
 
