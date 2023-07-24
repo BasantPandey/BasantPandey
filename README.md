@@ -49,11 +49,11 @@
 
 ## 📺 Latest videos from the [BasantPandey YouTube channel](https://www.youtube.com/@BasantPandeyji)
 <!-- BASANTPANDEYYOUTUBE-POST-LIST:START -->
+- Jul 24, 2023 - [SharePoint Framework &lpar;SPFx&rpar; Extensions &lpar;Form Customizer&rpar;](https://www.youtube.com/watch?v=ar0j29dhVzU)
 - Jul 11, 2023 - [SharePoint Framework &lpar;SPFx&rpar;: Extensions &lpar;Command Sets&rpar;](https://www.youtube.com/watch?v=vTVcHblrtpU)
 - Jul 10, 2023 - [SharePoint Framework &lpar;SPFx&rpar;: Extensions &lpar;Field Customizers&rpar;](https://www.youtube.com/watch?v=_Dwun9t01WM)
 - Jul 9, 2023 - [SharePoint Framework &lpar;SPFx&rpar; Extensions &lpar;Application Customizers&rpar;](https://www.youtube.com/watch?v=_q1sxQTSqoA)
-- Jul 7, 2023 - [SharePoint Framework &lpar;SPFx&rpar;: WebParts](https://www.youtube.com/watch?v=cyEMMph-rQw)
-- Jul 5, 2023 - [SharePoint Framework &lpar;SPFx&rpar;: Getting Started](https://www.youtube.com/watch?v=JdP8jdokOfE)<!-- BASANTPANDEYYOUTUBE-POST-LIST:END -->
+- Jul 7, 2023 - [SharePoint Framework &lpar;SPFx&rpar;: WebParts](https://www.youtube.com/watch?v=cyEMMph-rQw)<!-- BASANTPANDEYYOUTUBE-POST-LIST:END -->
 
 ## 🎙 Speaking
 
