@@ -74,10 +74,10 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1649](https://github.com/pnp/sp-dev-fx-controls-react/issues/1649) in [pnp/sp-dev-fx-controls-react](https://github.com/pnp/sp-dev-fx-controls-react)
-2. 🎉 Merged PR [#17](https://github.com/BasantPandey/BasantPandey/pull/17) in [BasantPandey/BasantPandey](https://github.com/BasantPandey/BasantPandey)
-3. 💪 Opened PR [#17](https://github.com/BasantPandey/BasantPandey/pull/17) in [BasantPandey/BasantPandey](https://github.com/BasantPandey/BasantPandey)
-4. ❌ Closed PR [#13](https://github.com/BasantPandey/BasantPandey/pull/13) in [BasantPandey/BasantPandey](https://github.com/BasantPandey/BasantPandey)
+1. 🗣 Commented on [#1649](https://github.com/pnp/sp-dev-fx-controls-react/issues/1649#issuecomment-1751624064) in [pnp/sp-dev-fx-controls-react](https://github.com/pnp/sp-dev-fx-controls-react)
+2. ❗ Opened issue [#1649](https://github.com/pnp/sp-dev-fx-controls-react/issues/1649) in [pnp/sp-dev-fx-controls-react](https://github.com/pnp/sp-dev-fx-controls-react)
+3. 🎉 Merged PR [#17](https://github.com/BasantPandey/BasantPandey/pull/17) in [BasantPandey/BasantPandey](https://github.com/BasantPandey/BasantPandey)
+4. 💪 Opened PR [#17](https://github.com/BasantPandey/BasantPandey/pull/17) in [BasantPandey/BasantPandey](https://github.com/BasantPandey/BasantPandey)
 5. ❌ Closed PR [#14](https://github.com/BasantPandey/BasantPandey/pull/14) in [BasantPandey/BasantPandey](https://github.com/BasantPandey/BasantPandey)
 <!--END_SECTION:activity-->
 
