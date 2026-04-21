@@ -53,8 +53,7 @@
 - Jul 25, 2023 - [SharePoint Framework &lpar;SPFx&rpar;: Library Component](https://www.youtube.com/watch?v=yxR7Bib-_Js)
 - Jul 24, 2023 - [SharePoint Framework &lpar;SPFx&rpar; Extensions &lpar;Form Customizer&rpar;](https://www.youtube.com/watch?v=ar0j29dhVzU)
 - Jul 11, 2023 - [SharePoint Framework &lpar;SPFx&rpar;: Extensions &lpar;Command Sets&rpar;](https://www.youtube.com/watch?v=vTVcHblrtpU)
-- Jul 10, 2023 - [SharePoint Framework &lpar;SPFx&rpar;: Extensions &lpar;Field Customizers&rpar;](https://www.youtube.com/watch?v=_Dwun9t01WM)
-<!-- BASANTPANDEYYOUTUBE-POST-LIST:END -->
+- Jul 10, 2023 - [SharePoint Framework &lpar;SPFx&rpar;: Extensions &lpar;Field Customizers&rpar;](https://www.youtube.com/watch?v=_Dwun9t01WM)<!-- BASANTPANDEYYOUTUBE-POST-LIST:END -->
 
 ## 🎙 Speaking
 
