@@ -37,14 +37,16 @@
 - Jun 8, 2023 - [Chat GTP - Azure Logic App to Review Pull using chat GTP](http://sharepointfordeveloper.blogspot.com/2023/06/chat-gtp-azure-logic-app-to-review-pull.html)
 - Nov 29, 2022 - [SharePoint Online tools Improve productivity](http://sharepointfordeveloper.blogspot.com/2022/11/sharepoint-online-tools-improve.html)
 - Sep 10, 2018 - [&lpar;5/7&rpar; WebJobs: Configure Azure WebJobs](http://sharepointfordeveloper.blogspot.com/2018/09/57-webjobs-configure-azure-webjobs.html)
-- Sep 10, 2018 - [&lpar;4/7&rpar; Play by Play Series on Azure WebJobs](http://sharepointfordeveloper.blogspot.com/2018/09/47-play-by-play-series-on-azure-webjobs_10.html)<!-- START_SHAREPOINT-POST-LIST:END -->
+- Sep 10, 2018 - [&lpar;4/7&rpar; Play by Play Series on Azure WebJobs](http://sharepointfordeveloper.blogspot.com/2018/09/47-play-by-play-series-on-azure-webjobs_10.html)
+<!-- START_SHAREPOINT-POST-LIST:END -->
 
 
 ## 📙 Latest articles from [AEye Innovators](https://aeyeinnovators.blogspot.com/)
 <!-- BASANTPANDEY-POST-LIST:START -->
 - Jun 5, 2023 - [Chat GTP Github Projects](http://aeyeinnovators.blogspot.com/2023/06/chat-gtp-github-actions-projects.html)
 - Jun 3, 2023 - [Five popular online courses for learning AI](http://aeyeinnovators.blogspot.com/2023/06/five-popular-online-courses-for.html)
-- Jun 3, 2023 - [What is AI?](http://aeyeinnovators.blogspot.com/2023/06/what-is-ai.html)<!-- BASANTPANDEY-POST-LIST:END -->
+- Jun 3, 2023 - [What is AI?](http://aeyeinnovators.blogspot.com/2023/06/what-is-ai.html)
+<!-- BASANTPANDEY-POST-LIST:END -->
 
 
 ## 📺 Latest videos from the [BasantPandey YouTube channel](https://www.youtube.com/@BasantPandeyji)
@@ -53,7 +55,8 @@
 - Jul 25, 2023 - [SharePoint Framework &lpar;SPFx&rpar;: Library Component](https://www.youtube.com/watch?v=yxR7Bib-_Js)
 - Jul 24, 2023 - [SharePoint Framework &lpar;SPFx&rpar; Extensions &lpar;Form Customizer&rpar;](https://www.youtube.com/watch?v=ar0j29dhVzU)
 - Jul 11, 2023 - [SharePoint Framework &lpar;SPFx&rpar;: Extensions &lpar;Command Sets&rpar;](https://www.youtube.com/watch?v=vTVcHblrtpU)
-- Jul 10, 2023 - [SharePoint Framework &lpar;SPFx&rpar;: Extensions &lpar;Field Customizers&rpar;](https://www.youtube.com/watch?v=_Dwun9t01WM)<!-- BASANTPANDEYYOUTUBE-POST-LIST:END -->
+- Jul 10, 2023 - [SharePoint Framework &lpar;SPFx&rpar;: Extensions &lpar;Field Customizers&rpar;](https://www.youtube.com/watch?v=_Dwun9t01WM)
+<!-- BASANTPANDEYYOUTUBE-POST-LIST:END -->
 
 ## 🎙 Speaking
 
