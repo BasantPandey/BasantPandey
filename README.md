@@ -11,7 +11,7 @@
   </a>&nbsp;&nbsp; 
 </p>
 
-### MCT | Azure Architect | Certified: Terraform Associate | Cloud Automation | IaC
+### MCT | Azure Architect | Terraform Associate | IaC | AI Agent Development | Vibe Coding
 
 
 ## 🤵 About Me
@@ -29,6 +29,12 @@
 👉 My expertise extends to the architectural design and implementation of Azure Networking Services, encompassing Virtual Network, Load Balancers, Application Gateway, VPN Gateway, Azure DNS, Traffic Manager, and Express Route.
 
 👉 I have extensive hands-on experience with Azure, including cloud services, IaaS, worker roles, service bus, queue storage, Azure Blob storage, table storage, and API Management. I have successfully configured NSGs for two-tier and three-tier applications and have expertise in integrating on-premises servers with Azure.
+
+👉 I practice **Vibe Coding** — AI-assisted software development using natural language prompts to generate, refactor, and review code. My primary tools are **Claude Code**, **Cursor**, and **GitHub Copilot**. I apply this approach to both **greenfield** projects (AI-driven scaffolding and architecture generation from natural language specs) and **brownfield** projects (AI-assisted refactoring, feature addition, and modernization of existing enterprise codebases).
+
+👉 I have hands-on experience in **AI Skill Authoring** — building custom skills and tools that extend AI coding assistants — and **AI Agent Development** — designing and implementing autonomous multi-step agents using the Anthropic SDK and agentic frameworks.
+
+👉 I follow a **spec-driven development** approach using **OpenAPI/Swagger** design-first specifications. Writing the contract before writing the code improves consistency across AI-generated implementations and aligns teams on expected behavior before any code is produced.
 
 
 ## 🖋 SharePoint Blogging
@@ -65,12 +71,19 @@
 5. Functional Programming
 6. Azure
 7. Terraform
+8. Vibe Coding (Claude Code, Cursor, GitHub Copilot)
+9. AI Agent Development
+10. AI Skill Authoring
+11. OpenAPI / Spec-Driven Development
 
 ## 🌱 I’m currently learning
 1. Advanced Visual Studio Code Features
 2. Functional Programming
 3. Docker
 4. Terraform Vault
+5. Advanced AI Agent Patterns
+6. MCP (Model Context Protocol) Server Development
+7. Spec-Driven AI Workflows
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
