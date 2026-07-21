@@ -87,11 +87,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1649](https://github.com/pnp/sp-dev-fx-controls-react/issues/1649#issuecomment-1751624064) in [pnp/sp-dev-fx-controls-react](https://github.com/pnp/sp-dev-fx-controls-react)
-2. ❗ Opened issue [#1649](https://github.com/pnp/sp-dev-fx-controls-react/issues/1649) in [pnp/sp-dev-fx-controls-react](https://github.com/pnp/sp-dev-fx-controls-react)
-3. 🎉 Merged PR [#17](https://github.com/BasantPandey/BasantPandey/pull/17) in [BasantPandey/BasantPandey](https://github.com/BasantPandey/BasantPandey)
-4. 💪 Opened PR [#17](https://github.com/BasantPandey/BasantPandey/pull/17) in [BasantPandey/BasantPandey](https://github.com/BasantPandey/BasantPandey)
-5. ❌ Closed PR [#14](https://github.com/BasantPandey/BasantPandey/pull/14) in [BasantPandey/BasantPandey](https://github.com/BasantPandey/BasantPandey)
+1. ℹ️ Assigned issue [#4](https://github.com/BasantPandey/AIQuotaTool/issues/4) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
+2. 🗣 Commented on [#17](https://github.com/BasantPandey/AIQuotaTool/issues/17#issuecomment-5031036372) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
+3. 🔒 Closed issue [#17](https://github.com/BasantPandey/AIQuotaTool/issues/17) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
+4. 🗣 Commented on [#17](https://github.com/BasantPandey/AIQuotaTool/issues/17#issuecomment-5031032571) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
+5. ℹ️ Assigned issue [#17](https://github.com/BasantPandey/AIQuotaTool/issues/17) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
 <!--END_SECTION:activity-->
 
 
