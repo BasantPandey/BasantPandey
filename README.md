@@ -87,11 +87,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Prod](https://github.com/BasantPandey/AIQuotaTool/releases/tag/Prod) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
-2. 🗣 Commented on [#26](https://github.com/BasantPandey/AIQuotaTool/issues/26#issuecomment-5120871325) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
-3. 🔒 Closed issue [#26](https://github.com/BasantPandey/AIQuotaTool/issues/26) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
-4. ℹ️ Labeled issue [#26](https://github.com/BasantPandey/AIQuotaTool/issues/26) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
-5. ❗ Opened issue [#26](https://github.com/BasantPandey/AIQuotaTool/issues/26) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
+1. 🔒 Closed issue [#8](https://github.com/BasantPandey/AuditLens/issues/8) in [BasantPandey/AuditLens](https://github.com/BasantPandey/AuditLens)
+2. 🗣 Commented on [#8](https://github.com/BasantPandey/AuditLens/issues/8#issuecomment-5145737679) in [BasantPandey/AuditLens](https://github.com/BasantPandey/AuditLens)
+3. 🗣 Commented on [#7](https://github.com/BasantPandey/AuditLens/issues/7#issuecomment-5145737303) in [BasantPandey/AuditLens](https://github.com/BasantPandey/AuditLens)
+4. 🔒 Closed issue [#7](https://github.com/BasantPandey/AuditLens/issues/7) in [BasantPandey/AuditLens](https://github.com/BasantPandey/AuditLens)
+5. 🔒 Closed issue [#6](https://github.com/BasantPandey/AuditLens/issues/6) in [BasantPandey/AuditLens](https://github.com/BasantPandey/AuditLens)
 <!--END_SECTION:activity-->
 
 
