@@ -87,11 +87,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#8](https://github.com/BasantPandey/AuditLens/issues/8) in [BasantPandey/AuditLens](https://github.com/BasantPandey/AuditLens)
-2. 🗣 Commented on [#8](https://github.com/BasantPandey/AuditLens/issues/8#issuecomment-5145737679) in [BasantPandey/AuditLens](https://github.com/BasantPandey/AuditLens)
-3. 🗣 Commented on [#7](https://github.com/BasantPandey/AuditLens/issues/7#issuecomment-5145737303) in [BasantPandey/AuditLens](https://github.com/BasantPandey/AuditLens)
-4. 🔒 Closed issue [#7](https://github.com/BasantPandey/AuditLens/issues/7) in [BasantPandey/AuditLens](https://github.com/BasantPandey/AuditLens)
-5. 🔒 Closed issue [#6](https://github.com/BasantPandey/AuditLens/issues/6) in [BasantPandey/AuditLens](https://github.com/BasantPandey/AuditLens)
+1. 🔒 Closed issue [#9](https://github.com/BasantPandey/AuditLens/issues/9) in [BasantPandey/AuditLens](https://github.com/BasantPandey/AuditLens)
+2. 🗣 Commented on [#9](https://github.com/BasantPandey/AuditLens/issues/9#issuecomment-5203445704) in [BasantPandey/AuditLens](https://github.com/BasantPandey/AuditLens)
+3. ℹ️ Assigned issue [#9](https://github.com/BasantPandey/AuditLens/issues/9) in [BasantPandey/AuditLens](https://github.com/BasantPandey/AuditLens)
+4. 🔒 Closed issue [#8](https://github.com/BasantPandey/AuditLens/issues/8) in [BasantPandey/AuditLens](https://github.com/BasantPandey/AuditLens)
+5. 🗣 Commented on [#8](https://github.com/BasantPandey/AuditLens/issues/8#issuecomment-5145737679) in [BasantPandey/AuditLens](https://github.com/BasantPandey/AuditLens)
 <!--END_SECTION:activity-->
 
 
