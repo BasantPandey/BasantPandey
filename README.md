@@ -87,11 +87,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#9](https://github.com/BasantPandey/AuditLens/issues/9) in [BasantPandey/AuditLens](https://github.com/BasantPandey/AuditLens)
-2. 🗣 Commented on [#9](https://github.com/BasantPandey/AuditLens/issues/9#issuecomment-5203445704) in [BasantPandey/AuditLens](https://github.com/BasantPandey/AuditLens)
-3. ℹ️ Assigned issue [#9](https://github.com/BasantPandey/AuditLens/issues/9) in [BasantPandey/AuditLens](https://github.com/BasantPandey/AuditLens)
-4. 🔒 Closed issue [#8](https://github.com/BasantPandey/AuditLens/issues/8) in [BasantPandey/AuditLens](https://github.com/BasantPandey/AuditLens)
-5. 🗣 Commented on [#8](https://github.com/BasantPandey/AuditLens/issues/8#issuecomment-5145737679) in [BasantPandey/AuditLens](https://github.com/BasantPandey/AuditLens)
+1. 🎉 Merged PR [#37](https://github.com/BasantPandey/AIQuotaTool/pull/37) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
+2. 🎉 Merged PR [#39](https://github.com/BasantPandey/AIQuotaTool/pull/39) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
+3. 🎉 Merged PR [#40](https://github.com/BasantPandey/AIQuotaTool/pull/40) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
+4. 💪 Opened PR [#40](https://github.com/BasantPandey/AIQuotaTool/pull/40) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
+5. 💪 Opened PR [#39](https://github.com/BasantPandey/AIQuotaTool/pull/39) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
 <!--END_SECTION:activity-->
 
 
