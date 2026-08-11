@@ -87,11 +87,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#38](https://github.com/BasantPandey/AIQuotaTool/issues/38) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
-2. 🗣 Commented on [#38](https://github.com/BasantPandey/AIQuotaTool/issues/38#issuecomment-5227109074) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
-3. 🔒 Closed issue [#27](https://github.com/BasantPandey/AIQuotaTool/issues/27) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
-4. 🗣 Commented on [#36](https://github.com/BasantPandey/AIQuotaTool/issues/36#issuecomment-5227023903) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
-5. 🔒 Closed issue [#36](https://github.com/BasantPandey/AIQuotaTool/issues/36) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
+1. ℹ️ Labeled issue [#48](https://github.com/BasantPandey/AIQuotaTool/issues/48) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
+2. ❗ Opened issue [#48](https://github.com/BasantPandey/AIQuotaTool/issues/48) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
+3. ❗ Opened issue [#47](https://github.com/BasantPandey/AIQuotaTool/issues/47) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
+4. ℹ️ Labeled issue [#47](https://github.com/BasantPandey/AIQuotaTool/issues/47) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
+5. ℹ️ Labeled issue [#46](https://github.com/BasantPandey/AIQuotaTool/issues/46) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
 <!--END_SECTION:activity-->
 
 
