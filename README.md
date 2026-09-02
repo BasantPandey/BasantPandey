@@ -87,11 +87,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/BasantPandey/client-growth-intelligence/pull/1) in [BasantPandey/client-growth-intelligence](https://github.com/BasantPandey/client-growth-intelligence)
-2. 🗣 Commented on [#58](https://github.com/BasantPandey/AIQuotaTool/issues/58#issuecomment-5263482900) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
-3. 🔒 Closed issue [#58](https://github.com/BasantPandey/AIQuotaTool/issues/58) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
-4. ℹ️ Labeled issue [#58](https://github.com/BasantPandey/AIQuotaTool/issues/58) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
-5. ❗ Opened issue [#58](https://github.com/BasantPandey/AIQuotaTool/issues/58) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
+1. 🗣 Commented on [#58](https://github.com/BasantPandey/AIQuotaTool/issues/58#issuecomment-5263482900) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
+2. 🔒 Closed issue [#58](https://github.com/BasantPandey/AIQuotaTool/issues/58) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
+3. ℹ️ Labeled issue [#58](https://github.com/BasantPandey/AIQuotaTool/issues/58) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
+4. ❗ Opened issue [#58](https://github.com/BasantPandey/AIQuotaTool/issues/58) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
+5. 🗣 Commented on [#51](https://github.com/BasantPandey/AIQuotaTool/issues/51#issuecomment-5263249623) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
 <!--END_SECTION:activity-->
 
 
