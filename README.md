@@ -87,11 +87,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/BasantPandey/CmdWarden/pull/5) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
-2. 💪 Opened PR [#5](https://github.com/BasantPandey/CmdWarden/pull/5) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
-3. 🎉 Merged PR [#4](https://github.com/BasantPandey/CmdWarden/pull/4) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
-4. 💪 Opened PR [#4](https://github.com/BasantPandey/CmdWarden/pull/4) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
-5. 🎉 Merged PR [#3](https://github.com/BasantPandey/CmdWarden/pull/3) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
+1. 🚀 Published release [v0.2.0](https://github.com/BasantPandey/CmdWarden/releases/tag/v0.2.0) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
+2. 🎉 Merged PR [#6](https://github.com/BasantPandey/CmdWarden/pull/6) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
+3. 💪 Opened PR [#6](https://github.com/BasantPandey/CmdWarden/pull/6) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
+4. 🎉 Merged PR [#5](https://github.com/BasantPandey/CmdWarden/pull/5) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
+5. 💪 Opened PR [#5](https://github.com/BasantPandey/CmdWarden/pull/5) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
 <!--END_SECTION:activity-->
 
 
