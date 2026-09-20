@@ -87,11 +87,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/BasantPandey/CmdWarden/pull/9) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
-2. 🎉 Merged PR [#8](https://github.com/BasantPandey/CmdWarden/pull/8) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
-3. 🎉 Merged PR [#7](https://github.com/BasantPandey/CmdWarden/pull/7) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
-4. 💪 Opened PR [#9](https://github.com/BasantPandey/CmdWarden/pull/9) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
-5. 💪 Opened PR [#8](https://github.com/BasantPandey/CmdWarden/pull/8) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
+1. 🔒 Closed issue [#10](https://github.com/BasantPandey/CmdWarden/issues/10) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
+2. 🗣 Commented on [#10](https://github.com/BasantPandey/CmdWarden/issues/10#issuecomment-5751885544) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
+3. 🗣 Commented on [#12](https://github.com/BasantPandey/CmdWarden/issues/12#issuecomment-5751881930) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
+4. 🔒 Closed issue [#12](https://github.com/BasantPandey/CmdWarden/issues/12) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
+5. 🗣 Commented on [#12](https://github.com/BasantPandey/CmdWarden/issues/12#issuecomment-5751881815) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
 <!--END_SECTION:activity-->
 
 
