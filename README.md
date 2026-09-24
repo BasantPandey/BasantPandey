@@ -87,11 +87,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/BasantPandey/CmdWarden/pull/17) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
-2. 💪 Opened PR [#17](https://github.com/BasantPandey/CmdWarden/pull/17) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
-3. 🎉 Merged PR [#16](https://github.com/BasantPandey/CmdWarden/pull/16) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
-4. 💪 Opened PR [#16](https://github.com/BasantPandey/CmdWarden/pull/16) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
-5. 🔒 Closed issue [#10](https://github.com/BasantPandey/CmdWarden/issues/10) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
+1. ℹ️ Assigned issue [#65](https://github.com/BasantPandey/AIQuotaTool/issues/65) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
+2. 🗣 Commented on [#64](https://github.com/BasantPandey/AIQuotaTool/issues/64#issuecomment-5808211551) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
+3. 🔒 Closed issue [#64](https://github.com/BasantPandey/AIQuotaTool/issues/64) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
+4. 🔒 Closed issue [#63](https://github.com/BasantPandey/AIQuotaTool/issues/63) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
+5. 🗣 Commented on [#63](https://github.com/BasantPandey/AIQuotaTool/issues/63#issuecomment-5808211228) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
 <!--END_SECTION:activity-->
 
 
