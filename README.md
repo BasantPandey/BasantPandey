@@ -87,11 +87,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#36](https://github.com/BasantPandey/CmdWarden/issues/36) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
-2. 🔒 Closed issue [#35](https://github.com/BasantPandey/CmdWarden/issues/35) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
-3. 🔒 Closed issue [#34](https://github.com/BasantPandey/CmdWarden/issues/34) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
-4. 🔒 Closed issue [#33](https://github.com/BasantPandey/CmdWarden/issues/33) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
-5. 🔒 Closed issue [#32](https://github.com/BasantPandey/CmdWarden/issues/32) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
+1. 🎉 Merged PR [#51](https://github.com/BasantPandey/CmdWarden/pull/51) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
+2. 🔒 Closed issue [#41](https://github.com/BasantPandey/CmdWarden/issues/41) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
+3. 🔒 Closed issue [#40](https://github.com/BasantPandey/CmdWarden/issues/40) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
+4. 🔒 Closed issue [#39](https://github.com/BasantPandey/CmdWarden/issues/39) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
+5. 🔒 Closed issue [#38](https://github.com/BasantPandey/CmdWarden/issues/38) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
 <!--END_SECTION:activity-->
 
 
