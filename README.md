@@ -87,11 +87,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#20](https://github.com/BasantPandey/CmdWarden-Omarchy/issues/20) in [BasantPandey/CmdWarden-Omarchy](https://github.com/BasantPandey/CmdWarden-Omarchy)
-2. ❗ Opened issue [#20](https://github.com/BasantPandey/CmdWarden-Omarchy/issues/20) in [BasantPandey/CmdWarden-Omarchy](https://github.com/BasantPandey/CmdWarden-Omarchy)
-3. 🔒 Closed issue [#13](https://github.com/BasantPandey/CmdWarden-Omarchy/issues/13) in [BasantPandey/CmdWarden-Omarchy](https://github.com/BasantPandey/CmdWarden-Omarchy)
-4. 🗣 Commented on [#13](https://github.com/BasantPandey/CmdWarden-Omarchy/issues/13#issuecomment-5856816201) in [BasantPandey/CmdWarden-Omarchy](https://github.com/BasantPandey/CmdWarden-Omarchy)
-5. 🔒 Closed issue [#14](https://github.com/BasantPandey/CmdWarden-Omarchy/issues/14) in [BasantPandey/CmdWarden-Omarchy](https://github.com/BasantPandey/CmdWarden-Omarchy)
+1. ℹ️ Labeled issue [#25](https://github.com/BasantPandey/CmdWarden-Omarchy/issues/25) in [BasantPandey/CmdWarden-Omarchy](https://github.com/BasantPandey/CmdWarden-Omarchy)
+2. ❗ Opened issue [#25](https://github.com/BasantPandey/CmdWarden-Omarchy/issues/25) in [BasantPandey/CmdWarden-Omarchy](https://github.com/BasantPandey/CmdWarden-Omarchy)
+3. 🎉 Merged PR [#54](https://github.com/BasantPandey/CmdWarden/pull/54) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
+4. 🗣 Commented on [#64](https://github.com/BasantPandey/CmdWarden/issues/64#issuecomment-5857845735) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
+5. 💪 Opened PR [#442236](https://github.com/microsoft/winget-pkgs/pull/442236) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 <!--END_SECTION:activity-->
 
 
