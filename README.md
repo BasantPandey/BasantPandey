@@ -87,11 +87,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#78](https://github.com/BasantPandey/AIQuotaTool/pull/78) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
-2. 💪 Opened PR [#78](https://github.com/BasantPandey/AIQuotaTool/pull/78) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
-3. 🗣 Commented on [#69](https://github.com/BasantPandey/AIQuotaTool/issues/69#issuecomment-5864422604) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
-4. 🎉 Merged PR [#77](https://github.com/BasantPandey/AIQuotaTool/pull/77) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
-5. 💪 Opened PR [#77](https://github.com/BasantPandey/AIQuotaTool/pull/77) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
+1. 🎉 Merged PR [#82](https://github.com/BasantPandey/AIQuotaTool/pull/82) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
+2. 💪 Opened PR [#82](https://github.com/BasantPandey/AIQuotaTool/pull/82) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
+3. 🎉 Merged PR [#81](https://github.com/BasantPandey/AIQuotaTool/pull/81) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
+4. 💪 Opened PR [#81](https://github.com/BasantPandey/AIQuotaTool/pull/81) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
+5. 🎉 Merged PR [#80](https://github.com/BasantPandey/AIQuotaTool/pull/80) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
 <!--END_SECTION:activity-->
 
 
