@@ -37,31 +37,14 @@
 👉 I follow a **spec-driven development** approach using **OpenAPI/Swagger** design-first specifications. Writing the contract before writing the code improves consistency across AI-generated implementations and aligns teams on expected behavior before any code is produced.
 
 
-## 🖋 SharePoint Blogging
-<!-- START_SHAREPOINT-POST-LIST:START -->
-- Aug 13, 2023 - [Getting Started with SharePoint Framework](http://sharepointfordeveloper.blogspot.com/2023/08/getting-started-with-sharepoint.html)
-- Jun 8, 2023 - [Chat GTP - Azure Logic App to Review Pull using chat GTP](http://sharepointfordeveloper.blogspot.com/2023/06/chat-gtp-azure-logic-app-to-review-pull.html)
-- Nov 29, 2022 - [SharePoint Online tools Improve productivity](http://sharepointfordeveloper.blogspot.com/2022/11/sharepoint-online-tools-improve.html)
-- Sep 10, 2018 - [&lpar;5/7&rpar; WebJobs: Configure Azure WebJobs](http://sharepointfordeveloper.blogspot.com/2018/09/57-webjobs-configure-azure-webjobs.html)
-- Sep 10, 2018 - [&lpar;4/7&rpar; Play by Play Series on Azure WebJobs](http://sharepointfordeveloper.blogspot.com/2018/09/47-play-by-play-series-on-azure-webjobs_10.html)<!-- START_SHAREPOINT-POST-LIST:END -->
+## 🚀 Projects
 
-
-## 📙 Latest articles from [AEye Innovators](https://aeyeinnovators.blogspot.com/)
-<!-- BASANTPANDEY-POST-LIST:START -->
-- Jun 5, 2023 - [Chat GTP Github Projects](http://aeyeinnovators.blogspot.com/2023/06/chat-gtp-github-actions-projects.html)
-- Jun 3, 2023 - [Five popular online courses for learning AI](http://aeyeinnovators.blogspot.com/2023/06/five-popular-online-courses-for.html)
-- Jun 3, 2023 - [What is AI?](http://aeyeinnovators.blogspot.com/2023/06/what-is-ai.html)<!-- BASANTPANDEY-POST-LIST:END -->
-
-
-## 📺 Latest videos from the [BasantPandey YouTube channel](https://www.youtube.com/@BasantPandeyji)
-<!-- BASANTPANDEYYOUTUBE-POST-LIST:START -->
-- Jul 29, 2023 - [SharePoint Framework &lpar;SPFx&rpar; Adaptive Card Extension](https://www.youtube.com/watch?v=L2JzwLKfyhQ)
-- Jul 25, 2023 - [SharePoint Framework &lpar;SPFx&rpar;: Library Component](https://www.youtube.com/watch?v=yxR7Bib-_Js)
-- Jul 24, 2023 - [SharePoint Framework &lpar;SPFx&rpar; Extensions &lpar;Form Customizer&rpar;](https://www.youtube.com/watch?v=ar0j29dhVzU)
-- Jul 11, 2023 - [SharePoint Framework &lpar;SPFx&rpar;: Extensions &lpar;Command Sets&rpar;](https://www.youtube.com/watch?v=vTVcHblrtpU)
-- Jul 10, 2023 - [SharePoint Framework &lpar;SPFx&rpar;: Extensions &lpar;Field Customizers&rpar;](https://www.youtube.com/watch?v=_Dwun9t01WM)<!-- BASANTPANDEYYOUTUBE-POST-LIST:END -->
-
-## 🎙 Speaking
+- [AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool) - VS Code extension that shows your remaining AI quota for Claude, GitHub Copilot, OpenAI Codex and Grok.
+- [CmdWarden](https://github.com/BasantPandey/CmdWarden) - Windows secret gate for CLI tools. AI harnesses get an approval card.
+- [CmdWarden-Omarchy](https://github.com/BasantPandey/CmdWarden-Omarchy) - Approval gate for `gh` on Omarchy, Arch Linux and Wayland desktops.
+- [omarchy-find-my-mouse](https://github.com/BasantPandey/omarchy-find-my-mouse) - Press a hotkey to dim the screens and spotlight the cursor.
+- [AuditLens](https://github.com/BasantPandey/AuditLens) - AI point-and-challenge tool for audit process walkthroughs.
+- [omarchy-dotfiles](https://github.com/BasantPandey/omarchy-dotfiles) - Personal Omarchy Linux config. Plain bash and symlinks.
 
 ## 💬 Ask me about
 1. React
