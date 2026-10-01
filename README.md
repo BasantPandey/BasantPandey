@@ -1,72 +1,73 @@
-## ⚡ Basant Pandey  <a href="https://chefonthecloud.com/">  👋 </a>&nbsp;&nbsp;
-<p>
- <a href="https://twitter.com/Basant_Pandey">
-     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&countColor=%232ea44f" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/basantpandey">
-     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/basantpandeyji">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp; 
+<h1 align="center">Basant Pandey</h1>
+<p align="center"><b>I build open-source tools that keep AI coding agents safe and visible.</b></p>
+<p align="center">
+  Azure Architect &bull; Microsoft Certified Trainer &bull; HashiCorp Terraform Associate<br/>
+  AI Agent Development &bull; Vibe Coding &bull; Spec-Driven Development
 </p>
 
-### MCT | Azure Architect | Terraform Associate | IaC | AI Agent Development | Vibe Coding
+<p align="center">
+  <a href="https://www.linkedin.com/in/basantpandey"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/Basant_Pandey"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.instagram.com/basantpandeyji"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
+## 👋 Hi
 
-## 🤵 About Me
+I have 12+ years of experience with Azure and enterprise systems. Today I focus on AI. I write tools for the people who work with AI coding agents every day: Claude Code, Cursor, Codex and GitHub Copilot.
 
-👉 I am a highly experienced and certified Azure Architect Developer with over 12 years of expertise in designing, developing, analyzing, and implementing enterprise applications using Microsoft Technologies.
+My open-source work follows one idea: **an AI agent is powerful, so give it a clear view and a clear limit.**
 
-👉 I hold the HashiCorp Certified: Terraform Associate (002) certification, demonstrating my proficiency in creating infrastructure solutions.
+## 🚀 Open-source projects
 
-👉 My skills encompass the design, configuration, and optimization of Azure Compute Services, including Virtual Machines, Virtual Machine Scale Sets, App Service (Web App, Mobile App, Logic App, API App), App Service Environment (ASE), Azure Functions, Batch, Service Fabric, and cloud services.
+### 📊 [AI Quota Tool](https://github.com/BasantPandey/AIQuotaTool)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white) ![License](https://img.shields.io/badge/license-Apache--2.0-blue)
 
-👉 I specialize in architecting and securing elastic storage solutions in Azure, utilizing Blob storage, queue storage, File storage, Disk storage, Azure Backup, and Azure Site Recovery (ASR).
+A VS Code extension. It shows your remaining quota for **Claude, GitHub Copilot, OpenAI Codex and Grok**. It also shows your DeepSeek and Kimi API balance.
+- Segmented gauges and a "Lowest remaining" card inside the editor.
+- A status bar item and a webview dashboard.
+- Honest states. When a service gives no usage data, the tool says so.
 
-👉 Additionally, I excel in architecting and designing solutions based on Microsoft Azure, leveraging App Service, Web App, Mobile App, Logic App, API App, Azure Search, API Management, and Notification hubs.
+[Install from the Marketplace](https://marketplace.visualstudio.com/items?itemName=BasantPandey.ai-quota-tool-vscode)
 
-👉 My expertise extends to the architectural design and implementation of Azure Networking Services, encompassing Virtual Network, Load Balancers, Application Gateway, VPN Gateway, Azure DNS, Traffic Manager, and Express Route.
+### 🛡️ [CmdWarden](https://github.com/BasantPandey/CmdWarden)
+![C#](https://img.shields.io/badge/C%23-512bd4?logo=dotnet&logoColor=white) ![License](https://img.shields.io/badge/license-MIT-green) ![Platform](https://img.shields.io/badge/Windows-10%20%7C%2011-0078d4)
 
-👉 I have extensive hands-on experience with Azure, including cloud services, IaaS, worker roles, service bus, queue storage, Azure Blob storage, table storage, and API Management. I have successfully configured NSGs for two-tier and three-tier applications and have expertise in integrating on-premises servers with Azure.
+A secret gate for Windows. **AI agents must ask before they use your secrets.** Claude Code, Cursor and Codex get a policy and an Approval Gate card. Your own terminal works as before.
+- A shim gates `gh`, `git`, `az`, `docker`, `npm`, `aws`, `kubectl` and `ssh`.
+- Policy follows the real app that runs the command.
+- `.env` values stay in a vault. A program gets them only when you approve.
+- It fails closed. No approval card means no secret.
 
-👉 I practice **Vibe Coding** — AI-assisted software development using natural language prompts to generate, refactor, and review code. My primary tools are **Claude Code**, **Cursor**, and **GitHub Copilot**. I apply this approach to both **greenfield** projects (AI-driven scaffolding and architecture generation from natural language specs) and **brownfield** projects (AI-assisted refactoring, feature addition, and modernization of existing enterprise codebases).
+[Read the docs](https://basantpandey.github.io/CmdWarden/)
 
-👉 I have hands-on experience in **AI Skill Authoring** — building custom skills and tools that extend AI coding assistants — and **AI Agent Development** — designing and implementing autonomous multi-step agents using the Anthropic SDK and agentic frameworks.
+### 🐧 [CmdWarden-Omarchy](https://github.com/BasantPandey/CmdWarden-Omarchy)
+![Go](https://img.shields.io/badge/Go-00add8?logo=go&logoColor=white) ![License](https://img.shields.io/badge/license-MIT-green)
 
-👉 I follow a **spec-driven development** approach using **OpenAPI/Swagger** design-first specifications. Writing the contract before writing the code improves consistency across AI-generated implementations and aligns teams on expected behavior before any code is produced.
+The Linux twin of CmdWarden for Omarchy, Arch Linux and Wayland desktops. It gates `gh` with an identity-aware policy, a Secret Service vault and an on-screen approval prompt.
 
+### 🧪 More
 
-## 🚀 Projects
+| Project | What it does |
+|---|---|
+| [AuditLens](https://github.com/BasantPandey/AuditLens) | AI point-and-challenge tool for audit walkthroughs. Click a risk or control, challenge it, and export the fixed work product. |
+| [omarchy-find-my-mouse](https://github.com/BasantPandey/omarchy-find-my-mouse) | Press a hotkey. The screens dim and a ring shrinks onto your cursor. |
+| [omarchy-dotfiles](https://github.com/BasantPandey/omarchy-dotfiles) | My Omarchy Linux config. Plain bash and symlinks. |
 
-- [AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool) - VS Code extension that shows your remaining AI quota for Claude, GitHub Copilot, OpenAI Codex and Grok.
-- [CmdWarden](https://github.com/BasantPandey/CmdWarden) - Windows secret gate for CLI tools. AI harnesses get an approval card.
-- [CmdWarden-Omarchy](https://github.com/BasantPandey/CmdWarden-Omarchy) - Approval gate for `gh` on Omarchy, Arch Linux and Wayland desktops.
-- [omarchy-find-my-mouse](https://github.com/BasantPandey/omarchy-find-my-mouse) - Press a hotkey to dim the screens and spotlight the cursor.
-- [AuditLens](https://github.com/BasantPandey/AuditLens) - AI point-and-challenge tool for audit process walkthroughs.
-- [omarchy-dotfiles](https://github.com/BasantPandey/omarchy-dotfiles) - Personal Omarchy Linux config. Plain bash and symlinks.
+## 🤖 AI work
 
-## 💬 Ask me about
-1. React
-2. SharePoint
-3. Office 365
-4. SharePoint Search
-5. Functional Programming
-6. Azure
-7. Terraform
-8. Vibe Coding (Claude Code, Cursor, GitHub Copilot)
-9. AI Agent Development
-10. AI Skill Authoring
-11. OpenAPI / Spec-Driven Development
+- **Vibe Coding:** I ship with Claude Code, Cursor and GitHub Copilot. I use them on new projects and on old enterprise code.
+- **AI Agent Development:** I build multi-step agents with the Anthropic SDK and agent frameworks.
+- **AI Skill Authoring:** I write custom skills and tools that extend AI coding assistants.
+- **MCP:** I build Model Context Protocol servers.
+- **Spec-Driven Development:** I write the OpenAPI contract first. Then the AI writes the code.
 
-## 🌱 I’m currently learning
-1. Advanced Visual Studio Code Features
-2. Functional Programming
-3. Docker
-4. Terraform Vault
-5. Advanced AI Agent Patterns
-6. MCP (Model Context Protocol) Server Development
-7. Spec-Driven AI Workflows
+## 🧰 Tech
+
+![Azure](https://img.shields.io/badge/Azure-0078d4?logo=microsoftazure&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7b42bc?logo=terraform&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61dafb) ![C#](https://img.shields.io/badge/C%23-512bd4?logo=dotnet&logoColor=white) ![Go](https://img.shields.io/badge/Go-00add8?logo=go&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ed?logo=docker&logoColor=white) ![Claude](https://img.shields.io/badge/Claude%20Code-d97757?logo=anthropic&logoColor=white)
+
+## 🌱 Learning now
+
+Advanced AI agent patterns, MCP server development, spec-driven AI workflows, Terraform Vault and Docker.
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
@@ -78,27 +79,9 @@
 <!--END_SECTION:activity-->
 
 
-### Some stats
+### 📈 Stats
 
-<p align='center'>
-   <a href="https://github.com/BasantPandey">
-      <img src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=BasantPandey&countColor=%237B1E7A" />
-   </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BasantPandey&show_icons=true&hide_border=true&theme=transparent" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BasantPandey&layout=compact&hide_border=true&theme=transparent" height="150" />
 </p>
-
-<!--
-**BasantPandey/BasantPandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
