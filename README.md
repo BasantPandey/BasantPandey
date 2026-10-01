@@ -27,6 +27,8 @@ A VS Code extension. It shows your remaining quota for **Claude, GitHub Copilot,
 - A status bar item and a webview dashboard.
 - Honest states. When a service gives no usage data, the tool says so.
 
+<p align="center"><img src="https://raw.githubusercontent.com/BasantPandey/AIQuotaTool/main/packages/vscode-ext/docs/dashboard-dark.png" alt="AI Quota dashboard in VS Code" width="720" /></p>
+
 [Install from the Marketplace](https://marketplace.visualstudio.com/items?itemName=BasantPandey.ai-quota-tool-vscode)
 
 ### 🛡️ [CmdWarden](https://github.com/BasantPandey/CmdWarden)
@@ -37,6 +39,8 @@ A secret gate for Windows. **AI agents must ask before they use your secrets.** 
 - Policy follows the real app that runs the command.
 - `.env` values stay in a vault. A program gets them only when you approve.
 - It fails closed. No approval card means no secret.
+
+<p align="center"><img src="https://raw.githubusercontent.com/BasantPandey/CmdWarden/main/docs/images/cmdwarden-promo.gif" alt="CmdWarden demo: the agent asks, you approve or deny" width="720" /></p>
 
 [Read the docs](https://basantpandey.github.io/CmdWarden/)
 
@@ -53,6 +57,12 @@ The Linux twin of CmdWarden for Omarchy, Arch Linux and Wayland desktops. It gat
 | [omarchy-find-my-mouse](https://github.com/BasantPandey/omarchy-find-my-mouse) | Press a hotkey. The screens dim and a ring shrinks onto your cursor. |
 | [omarchy-dotfiles](https://github.com/BasantPandey/omarchy-dotfiles) | My Omarchy Linux config. Plain bash and symlinks. |
 
+## 🔭 Now
+
+- Ship more of CmdWarden: winget and NuGet packages.
+- Grow AI Quota Tool with more providers.
+- Write MCP servers and agent skills.
+
 ## 🤖 AI work
 
 - **Vibe Coding:** I ship with Claude Code, Cursor and GitHub Copilot. I use them on new projects and on old enterprise code.
@@ -68,6 +78,10 @@ The Linux twin of CmdWarden for Omarchy, Arch Linux and Wayland desktops. It gat
 ## 🌱 Learning now
 
 Advanced AI agent patterns, MCP server development, spec-driven AI workflows, Terraform Vault and Docker.
+
+## 📫 Reach me
+
+Send me a message on [LinkedIn](https://www.linkedin.com/in/basantpandey). Open an issue on any repo above. I welcome contributors.
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
