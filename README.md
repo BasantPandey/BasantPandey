@@ -85,11 +85,11 @@ Send me a message on [LinkedIn](https://www.linkedin.com/in/basantpandey). Open 
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#128](https://github.com/BasantPandey/AIQuotaTool/pull/128) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
-2. 💪 Opened PR [#128](https://github.com/BasantPandey/AIQuotaTool/pull/128) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
-3. 🎉 Merged PR [#127](https://github.com/BasantPandey/AIQuotaTool/pull/127) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
-4. 💪 Opened PR [#127](https://github.com/BasantPandey/AIQuotaTool/pull/127) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
-5. ❗ Opened issue [#9547](https://github.com/omacom/omarchy-plugin-marketplace/issues/9547) in [omacom/omarchy-plugin-marketplace](https://github.com/omacom/omarchy-plugin-marketplace)
+1. 💪 Opened PR [#129](https://github.com/BasantPandey/AIQuotaTool/pull/129) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
+2. 🎉 Merged PR [#128](https://github.com/BasantPandey/AIQuotaTool/pull/128) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
+3. 💪 Opened PR [#128](https://github.com/BasantPandey/AIQuotaTool/pull/128) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
+4. 🎉 Merged PR [#127](https://github.com/BasantPandey/AIQuotaTool/pull/127) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
+5. 💪 Opened PR [#127](https://github.com/BasantPandey/AIQuotaTool/pull/127) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
 <!--END_SECTION:activity-->
 
 
