@@ -85,11 +85,11 @@ Send me a message on [LinkedIn](https://www.linkedin.com/in/basantpandey). Open 
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#129](https://github.com/BasantPandey/AIQuotaTool/pull/129) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
-2. 💪 Opened PR [#129](https://github.com/BasantPandey/AIQuotaTool/pull/129) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
-3. 🎉 Merged PR [#128](https://github.com/BasantPandey/AIQuotaTool/pull/128) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
-4. 💪 Opened PR [#128](https://github.com/BasantPandey/AIQuotaTool/pull/128) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
-5. 🎉 Merged PR [#127](https://github.com/BasantPandey/AIQuotaTool/pull/127) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
+1. 🗣 Commented on [#442236](https://github.com/microsoft/winget-pkgs/pull/442236#issuecomment-6065179206) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+2. 💪 Opened PR [#132](https://github.com/BasantPandey/AIQuotaTool/pull/132) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
+3. 🎉 Merged PR [#131](https://github.com/BasantPandey/AIQuotaTool/pull/131) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
+4. 🎉 Merged PR [#130](https://github.com/BasantPandey/AIQuotaTool/pull/130) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
+5. 💪 Opened PR [#131](https://github.com/BasantPandey/AIQuotaTool/pull/131) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
 <!--END_SECTION:activity-->
 
 
