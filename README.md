@@ -49,12 +49,20 @@ A secret gate for Windows. **AI agents must ask before they use your secrets.** 
 
 The Linux twin of CmdWarden for Omarchy, Arch Linux and Wayland desktops. It gates `gh` with an identity-aware policy, a Secret Service vault and an on-screen approval prompt.
 
+### 🖱️ [Find My Mouse](https://github.com/BasantPandey/omarchy-find-my-mouse)
+![Omarchy](https://img.shields.io/badge/Omarchy-plugin-7aa2f7) ![Platform](https://img.shields.io/badge/Hyprland-Wayland-58e1ff)
+
+A published Omarchy plugin. Press `Super` + `Ctrl` + `M`. The screens dim and a ring shrinks onto your cursor.
+
+<p align="center"><img src="docs/images/find-my-mouse-showcase.gif" alt="Find My Mouse demo: press the hotkey and a ring shrinks onto the cursor" width="720" /></p>
+
+[Get it from Omarchy Plugins](https://plugins.omarchy.org/plugin.html?id=io.github.basantpandey.find-my-mouse)
+
 ### 🧪 More
 
 | Project | What it does |
 |---|---|
 | [AuditLens](https://github.com/BasantPandey/AuditLens) | AI point-and-challenge tool for audit walkthroughs. Click a risk or control, challenge it, and export the fixed work product. |
-| [omarchy-find-my-mouse](https://github.com/BasantPandey/omarchy-find-my-mouse) | Press a hotkey. The screens dim and a ring shrinks onto your cursor. |
 | [omarchy-dotfiles](https://github.com/BasantPandey/omarchy-dotfiles) | My Omarchy Linux config. Plain bash and symlinks. |
 
 ## 🔭 Now
