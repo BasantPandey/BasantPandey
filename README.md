@@ -93,11 +93,11 @@ Send me a message on [LinkedIn](https://www.linkedin.com/in/basantpandey). Open 
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#442236](https://github.com/microsoft/winget-pkgs/pull/442236#issuecomment-6065024566) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-2. 🗣 Commented on [#442236](https://github.com/microsoft/winget-pkgs/pull/442236#issuecomment-6065179206) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-3. 💪 Opened PR [#132](https://github.com/BasantPandey/AIQuotaTool/pull/132) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
-4. 🎉 Merged PR [#131](https://github.com/BasantPandey/AIQuotaTool/pull/131) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
-5. 🎉 Merged PR [#130](https://github.com/BasantPandey/AIQuotaTool/pull/130) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
+1. 🗣 Commented on [#10882](https://github.com/omacom/omarchy-plugin-marketplace/issues/10882#issuecomment-6096044560) in [omacom/omarchy-plugin-marketplace](https://github.com/omacom/omarchy-plugin-marketplace)
+2. ❗ Opened issue [#10882](https://github.com/omacom/omarchy-plugin-marketplace/issues/10882) in [omacom/omarchy-plugin-marketplace](https://github.com/omacom/omarchy-plugin-marketplace)
+3. 🗣 Commented on [#442236](https://github.com/microsoft/winget-pkgs/pull/442236#issuecomment-6065024566) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+4. 🗣 Commented on [#442236](https://github.com/microsoft/winget-pkgs/pull/442236#issuecomment-6065179206) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+5. 💪 Opened PR [#132](https://github.com/BasantPandey/AIQuotaTool/pull/132) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
 <!--END_SECTION:activity-->
 
 
