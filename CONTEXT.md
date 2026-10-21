@@ -16,4 +16,4 @@ Building custom skills and tools that extend AI coding assistants (e.g., Claude 
 Designing and implementing autonomous multi-step agents using the Anthropic SDK and agentic frameworks.
 
 ## Spec-Driven Development
-Writing the spec before writing code, with GitHub Spec Kit and the BMAD Method. Improves consistency across AI-generated implementations and aligns teams on expected behavior before any code is produced.
+Writing OpenAPI/Swagger contracts before writing code. Improves consistency across AI-generated implementations and aligns teams on expected behavior before any code is produced.

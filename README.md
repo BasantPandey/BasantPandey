@@ -13,7 +13,7 @@
 
 ## 👋 Hi
 
-I have 18 years of experience with Microsoft technologies, Azure and enterprise systems. Today I focus on AI. I write tools for the people who work with AI coding agents every day: Claude Code, Cursor, Codex and GitHub Copilot.
+I have 12+ years of experience with Azure and enterprise systems. Today I focus on AI. I write tools for the people who work with AI coding agents every day: Claude Code, Cursor, Codex and GitHub Copilot.
 
 My open-source work follows one idea: **an AI agent is powerful, so give it a clear view and a clear limit.**
 
@@ -71,28 +71,13 @@ A published Omarchy plugin. Press `Super` + `Ctrl` + `M`. The screens dim and a 
 - Grow AI Quota Tool with more providers.
 - Write MCP servers and agent skills.
 
-## 💼 Experience
-
-**Technology Specialist (Manager), Crowe** - May 2023 to now
-- Built the audit AI agent in C# on the Anthropic SDK. 3,000+ auditors use it.
-- Built a document research pipeline on the Claude Managed Agents API. It saves about 1 day of manual review per audit.
-- Built 5 pre-approved AI skills. They save about 2 days of manual work per client.
-- Cut story delivery time from 3 days to 1-2 days with spec-driven development.
-
-**Senior Software Engineer, Crowe** - Dec 2018 to Apr 2023
-- Migrated about 15 on-premises apps to Azure and SharePoint Online.
-- Automated Azure setup with Terraform, ARM templates and PowerShell. Setup time fell from 2 days to 30 minutes.
-- Cut cloud cost by about 30% with system design and cost studies.
-
-**Before 2018:** SharePoint and .NET work at Conduent, Fresenius Kabi, HCL Technologies and others.
-
 ## 🤖 AI work
 
 - **Vibe Coding:** I ship with Claude Code, Cursor and GitHub Copilot. I use them on new projects and on old enterprise code.
-- **AI Agent Development:** I build multi-step agents with the Anthropic SDK and the Claude Managed Agents API.
+- **AI Agent Development:** I build multi-step agents with the Anthropic SDK and agent frameworks.
 - **AI Skill Authoring:** I write custom skills and tools that extend AI coding assistants.
 - **MCP:** I build Model Context Protocol servers.
-- **Spec-Driven Development:** I write the spec first with GitHub Spec Kit and the BMAD Method. Then the AI writes the code.
+- **Spec-Driven Development:** I write the OpenAPI contract first. Then the AI writes the code.
 
 ## 🧰 Tech
 
