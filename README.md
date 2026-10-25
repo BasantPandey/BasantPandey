@@ -93,11 +93,11 @@ Send me a message on [LinkedIn](https://www.linkedin.com/in/basantpandey). Open 
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#108](https://github.com/BasantPandey/CmdWarden/pull/108) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
-2. 💪 Opened PR [#108](https://github.com/BasantPandey/CmdWarden/pull/108) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
-3. 🎉 Merged PR [#107](https://github.com/BasantPandey/CmdWarden/pull/107) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
-4. 💪 Opened PR [#107](https://github.com/BasantPandey/CmdWarden/pull/107) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
-5. 🎉 Merged PR [#106](https://github.com/BasantPandey/CmdWarden/pull/106) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
+1. 🎉 Merged PR [#110](https://github.com/BasantPandey/CmdWarden/pull/110) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
+2. 💪 Opened PR [#110](https://github.com/BasantPandey/CmdWarden/pull/110) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
+3. 🎉 Merged PR [#109](https://github.com/BasantPandey/CmdWarden/pull/109) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
+4. 💪 Opened PR [#109](https://github.com/BasantPandey/CmdWarden/pull/109) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
+5. 🎉 Merged PR [#108](https://github.com/BasantPandey/CmdWarden/pull/108) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
 <!--END_SECTION:activity-->
 
 
