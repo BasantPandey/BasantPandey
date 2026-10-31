@@ -93,11 +93,11 @@ Send me a message on [LinkedIn](https://www.linkedin.com/in/basantpandey). Open 
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#118](https://github.com/BasantPandey/CmdWarden/pull/118) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
-2. 💪 Opened PR [#118](https://github.com/BasantPandey/CmdWarden/pull/118) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
-3. 🗣 Commented on [#64](https://github.com/BasantPandey/CmdWarden/issues/64#issuecomment-6545825624) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
-4. 💪 Opened PR [#114](https://github.com/BasantPandey/CmdWarden/pull/114) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
-5. ❗ Opened issue [#113](https://github.com/BasantPandey/CmdWarden/issues/113) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
+1. 🗣 Commented on [#442236](https://github.com/microsoft/winget-pkgs/pull/442236#issuecomment-6546131612) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+2. 🎉 Merged PR [#118](https://github.com/BasantPandey/CmdWarden/pull/118) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
+3. 💪 Opened PR [#118](https://github.com/BasantPandey/CmdWarden/pull/118) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
+4. 🗣 Commented on [#64](https://github.com/BasantPandey/CmdWarden/issues/64#issuecomment-6545825624) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
+5. 💪 Opened PR [#114](https://github.com/BasantPandey/CmdWarden/pull/114) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
 <!--END_SECTION:activity-->
 
 
