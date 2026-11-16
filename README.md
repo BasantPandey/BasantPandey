@@ -93,11 +93,11 @@ Send me a message on [LinkedIn](https://www.linkedin.com/in/basantpandey). Open 
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#193](https://github.com/BasantPandey/CmdWarden/issues/193#issuecomment-6892694540) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
-2. 🔒 Closed issue [#193](https://github.com/BasantPandey/CmdWarden/issues/193) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
-3. 🗣 Commented on [#192](https://github.com/BasantPandey/CmdWarden/issues/192#issuecomment-6892693994) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
-4. 🔒 Closed issue [#192](https://github.com/BasantPandey/CmdWarden/issues/192) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
-5. 🔒 Closed issue [#191](https://github.com/BasantPandey/CmdWarden/issues/191) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
+1. 🎉 Merged PR [#195](https://github.com/BasantPandey/CmdWarden/pull/195) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
+2. 💪 Opened PR [#195](https://github.com/BasantPandey/CmdWarden/pull/195) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
+3. 🗣 Commented on [#193](https://github.com/BasantPandey/CmdWarden/issues/193#issuecomment-6892694540) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
+4. 🔒 Closed issue [#193](https://github.com/BasantPandey/CmdWarden/issues/193) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
+5. 🗣 Commented on [#192](https://github.com/BasantPandey/CmdWarden/issues/192#issuecomment-6892693994) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
 <!--END_SECTION:activity-->
 
 
