@@ -93,11 +93,11 @@ Send me a message on [LinkedIn](https://www.linkedin.com/in/basantpandey). Open 
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#195](https://github.com/BasantPandey/CmdWarden/pull/195) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
-2. 💪 Opened PR [#195](https://github.com/BasantPandey/CmdWarden/pull/195) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
-3. 🗣 Commented on [#193](https://github.com/BasantPandey/CmdWarden/issues/193#issuecomment-6892694540) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
-4. 🔒 Closed issue [#193](https://github.com/BasantPandey/CmdWarden/issues/193) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
-5. 🗣 Commented on [#192](https://github.com/BasantPandey/CmdWarden/issues/192#issuecomment-6892693994) in [BasantPandey/CmdWarden](https://github.com/BasantPandey/CmdWarden)
+1. 🔒 Closed issue [#133](https://github.com/BasantPandey/AIQuotaTool/issues/133) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
+2. 🎉 Merged PR [#134](https://github.com/BasantPandey/AIQuotaTool/pull/134) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
+3. 💪 Opened PR [#134](https://github.com/BasantPandey/AIQuotaTool/pull/134) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
+4. ❌ Closed PR [#101](https://github.com/BasantPandey/AIQuotaTool/pull/101) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
+5. 🎉 Merged PR [#132](https://github.com/BasantPandey/AIQuotaTool/pull/132) in [BasantPandey/AIQuotaTool](https://github.com/BasantPandey/AIQuotaTool)
 <!--END_SECTION:activity-->
 
 
